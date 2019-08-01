@@ -29,6 +29,7 @@
 | ELO Statistics | macsforme |
 | Extra Point Flags! | (unknown) |
 | f5kicker | flying_popcorn |
+| Fair4CTF | pacman87 |
 | fairCTF | L4m3r |
 | Flag give | hookah |
 | flagOnCap | Theme97 |
