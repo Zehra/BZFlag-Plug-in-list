@@ -6,105 +6,104 @@
 
 | Plug-in | Author |
 | ------- | ------ |
-| AOLer | allejo |
-| Dodgeball | allejo |
-| UselessGeno | Zehra |
-| CTF Overseer | allejo |
-| NoLossOnSW | Zehra |
-| stagedSceneGenerator | blast |
-| Spawnkill Revenge | Agatha |
-| Wolverine | Strakowski |
-| Useless Mine | allejo |
-| Capture Bonus | allejo |
-| MyPosition | Zehra |
-| PlaceHolder | Zehra |
-| TeamDeathZones | Zehra |
-| PointLessSelfKills | Zehra |
-| PhantomZoneSuperBullets | Zehra |
-| NoSelfCaptures | Zehra |
-| Thief Kills | the panda next door |
-| steamrollerRace | *Blast* and *Murielle* |
-| UselessMine | sigonasr2 |
-| NoFlagsByPerm | Zehra |
-| NoFlagsAboveZero | Zehra |
-| Kamikaze | Zehra |
-| randomflag | flying_popcorn |
-| f5kicker | flying_popcorn |
-| duplicatemap | flying_popcorn |
-| BotsPerIP | Anxuiz |
-| SpawnRecord | Enigma |
-| flagOfTheDay | the panda next door |
-| rogueteam | flying_popcorn |
-| Demilitarized Zones | allejo |
-| NoRogueCTF | Zehra |
-| teamflaggeno | L4m3r |
-| genoonce | L4m3r |
-| genostats | L4m3r |
-| riskygeno | L4m3r |
-| MapChange | Gnurdux |
-| All Hands On Deck (AHOD) | allejo |
-| Persistent Mutes | allejo |
-| Last Tank Standing | allejo |
-| Spawn at Base | allejo |
-| Player Join Handler | allejo |
-| Shot Limit Zone | allejo |
-| Swear Suppressor | L4m3r |
-| Grenade flag | Pac-Man |
-| Turret | Anxuiz |
-| showAdmin | macsforme |
-| PassTheFlag | FiringSquad |
-| GunGame Style | Trogdor BurNinat0R |
-| ELO Statistics | macsforme |
-| Auto Team Balance | allejo |
-| observerChat | alezakos |
-| PlayerVar | sigonasr2 |
-| Extra Point Flags! | (unknown) |
-| Spawn Facing the Center | L4m3r |
-| flagReset | L4m3r |
-| fairCTF | L4m3r |
-| OFFA Genocide | sigonasr2 |
-| Checkpoint | mrapple |
-| oneKill | Bambino |
-| Fair4CTF | pacman87 |
-| mirrorCTF | L4m3r |
-| skyColorCTF | L4m3r |
-| oneOnOneRules | L4m3r |
-| SSOGO | Theme97 |
-| spawnByPlayerCount | Theme97 |
-| shotChanger | Theme97 |
-| RSWE | Theme97 |
-| progFlag | Theme97 |
-| phantomShots | Theme97 |
-| mineField | Theme97 |
-| Logger | Theme97 |
-| killStats | Theme97 |
-| IPMute | Theme97 |
-| invisiCountdown | Theme97 |
-| Hitpoints | Theme97 |
-| giveAll | Theme97 |
-| flagOnCap | Theme97 |
-| autoVeto | Theme97 |
-| antiLagkickRejoin | Theme97 |
-| anonSay | Theme97 |
-| killLimits | L4m3r |
-| flagOnSpawn | macsforme |
 | adminListener | macsforme |
-| SimpleStats | macsforme |
-| Capture the Base | flying_popcorn |
-| flagResetOnCap | allejo |
-| varProtection | allejo |
-| teamFlagControl | blast |
-| ProximityMine | Enigma |
-| UselessMine | Enigma |
-| jsbzflag | mmarshall |
+| All Hands On Deck (AHOD) | allejo |
+| anonSay | Theme97 |
+| antiLagkickRejoin | Theme97 |
 | AntiSpawnCamp | Enigma |
 | anti_tk_cheat | pacman87 |
-| Ruby Plugin | catay |
-| PluginAssistant | Enigma |
-| Flag Race | meeba |
-| chooseFlag | Elderberry Schmuck |
+| AOLer | allejo |
 | Auto Pause | Links 2004 |
-| Flag give | hookah |
-| IRC/Bzflag Relay | wegstar |
+| Auto Team Balance | allejo |
+| autoVeto | Theme97 |
+| BotsPerIP | Anxuiz |
+| Capture Bonus | allejo |
+| Capture the Base | flying_popcorn |
 | ChatChannel | [dmp] |
+| Checkpoint | mrapple |
+| chooseFlag | Elderberry Schmuck |
+| CTF Overseer | allejo |
+| Demilitarized Zones | allejo |
+| Dodgeball | allejo |
+| duplicatemap | flying_popcorn |
+| ELO Statistics | macsforme |
+| Extra Point Flags! | (unknown) |
+| f5kicker | flying_popcorn |
+| fairCTF | L4m3r |
+| Flag give | hookah |
+| flagOnCap | Theme97 |
+| flagOnSpawn | macsforme |
+| flagOfTheDay | the panda next door |
+| Flag Race | meeba |
+| flagReset | L4m3r |
+| flagResetOnCap | allejo |
+| genoonce | L4m3r |
+| genostats | L4m3r |
+| giveAll | Theme97 |
+| Grenade flag | Pac-Man |
+| GunGame Style | Trogdor BurNinat0R |
+| Hitpoints | Theme97 |
+| invisiCountdown | Theme97 |
+| IPMute | Theme97 |
+| IRC/Bzflag Relay | wegstar |
+| jsbzflag | mmarshall |
+| Kamikaze | Zehra |
+| killStats | Theme97 |
+| killLimits | L4m3r |
+| Last Tank Standing | allejo |
+| Logger | Theme97 |
+| MapChange | Gnurdux |
+| mineField | Theme97 |
+| mirrorCTF | L4m3r |
+| MyPosition | Zehra |
+| NoFlagsAboveZero | Zehra |
+| NoFlagsByPerm | Zehra |
+| NoLossOnSW | Zehra |
+| NoRogueCTF | Zehra |
+| NoSelfCaptures | Zehra |
+| observerChat | alezakos |
+| OFFA Genocide | sigonasr2 |
+| oneOnOneRules | L4m3r |
+| oneKill | Bambino |
+| PassTheFlag | FiringSquad |
+| Persistent Mutes | allejo |
+| phantomShots | Theme97 |
+| PhantomZoneSuperBullets | Zehra |
+| PlaceHolder | Zehra |
+| Player Join Handler | allejo |
+| PlayerVar | sigonasr2 |
+| PluginAssistant | Enigma |
+| PointLessSelfKills | Zehra |
+| progFlag | Theme97 |
+| ProximityMine | Enigma |
 | RaceToSeven | RPG |
+| randomflag | flying_popcorn |
+| riskygeno | L4m3r |
+| rogueteam | flying_popcorn |
+| RSWE | Theme97 |
+| Ruby Plugin | catay |
+| shotChanger | Theme97 |
+| Shot Limit Zone | allejo |
+| showAdmin | macsforme |
+| SimpleStats | macsforme |
+| skyColorCTF | L4m3r |
+| Spawn at Base | allejo |
+| spawnByPlayerCount | Theme97 |
+| Spawn Facing the Center | L4m3r |
+| Spawnkill Revenge | Agatha |
+| SpawnRecord | Enigma |
+| SSOGO | Theme97 |
+| stagedSceneGenerator | blast |
+| steamrollerRace | *Blast* and *Murielle* |
+| Swear Suppressor | L4m3r |
+| TeamDeathZones | Zehra |
+| teamFlagControl | blast |
+| teamflaggeno | L4m3r |
+| Thief Kills | the panda next door |
+| Turret | Anxuiz |
+| UselessGeno | Zehra |
+| Useless Mine | allejo |
+| UselessMine | Enigma |
+| UselessMine | sigonasr2 |
+| varProtection | allejo |
+| Wolverine | Strakowski |
