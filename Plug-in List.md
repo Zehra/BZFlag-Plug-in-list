@@ -38,6 +38,7 @@
 | Flag Race | meeba |
 | flagReset | L4m3r |
 | flagResetOnCap | allejo |
+| flagThief | Zehra |
 | genoonce | L4m3r |
 | genostats | L4m3r |
 | giveAll | Theme97 |
@@ -54,6 +55,7 @@
 | Last Tank Standing | allejo |
 | Logger | Theme97 |
 | MapChange | Gnurdux |
+| MappedDeathZones | allejo |
 | mineField | Theme97 |
 | mirrorCTF | L4m3r |
 | MyPosition | Zehra |
@@ -107,4 +109,5 @@
 | UselessMine | Enigma |
 | UselessMine | sigonasr2 |
 | varProtection | allejo |
+| VPNBlocker | allejo |
 | Wolverine | Strakowski |
