@@ -1,5 +1,5 @@
 # BZFlag Plug-in List
-
+> An index of BZFlag plug-ins
 ## Plug-in List
 
 > Note: Plug-ins in the BZFlag distribution are not covered here.
